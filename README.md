@@ -14,3 +14,6 @@ Dimensionality reduction, or dimension reduction, is the transformation of data 
 5. Choose first k eigen vectors and that will be the new k dimensions.
 6. Transform the original n dimensional data points into k dimensions.
 Eigen Vectors: These vectors gives the in which direction the maximal spread occurs in the data.
+To know more about Pca i written a blog in medium please visit below link
+
+https://medium.com/analytics-vidhya/dimensionality-reduction-in-machine-learning-179ba0c83066
