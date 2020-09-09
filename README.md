@@ -20,3 +20,5 @@ Eigen Vectors: These vectors gives the in which direction the maximal spread occ
 # To know more about Pca i written a blog in medium please visit below link
 
 https://medium.com/analytics-vidhya/dimensionality-reduction-in-machine-learning-179ba0c83066
+
+# Linear Regression
