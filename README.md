@@ -22,3 +22,4 @@ Eigen Vectors: These vectors gives the in which direction the maximal spread occ
 https://medium.com/analytics-vidhya/dimensionality-reduction-in-machine-learning-179ba0c83066
 
 # Linear Regression
+ 
