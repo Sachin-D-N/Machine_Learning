@@ -4,7 +4,7 @@
 
 ![Pca](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlBnJfk3e3veBL_RX7B2PBRCFpkXNC9B8F0g&usqp=CAU )
 
-Performed a dimensanality reduction using PCA and t-SNE
+Performed a dimensanality reduction using PCA and t-SNE 
 
 
 Dimensionality reduction, or dimension reduction, is the transformation of data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data.
