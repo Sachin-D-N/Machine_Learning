@@ -23,3 +23,13 @@ https://medium.com/analytics-vidhya/dimensionality-reduction-in-machine-learning
 
 # Linear Regression
  
+### Linear Regression
+
+Linear regression is perhaps one of the most well known and well-understood algorithms in statistics and machine learning. Linear regression was developed in the field of statistics and is studied as a model for understanding the relationship between input and output numerical variables, but with the course of time, it has become an integral part of the modern machine learning toolbox.
+
+Linear Regression is all about finding a line (or) plane that fits the given data as well as possible.
+
+y=mx+b, Here m is the slope of the line and b is the y-intercept. it is the equation similar to algebra. But in statistics, the points do not lie perfectly on a line. it models around which the data lie if a strong line pattern exists.
+
+#### For Complte overview of Linear Regression, i wrritten a blog in medium to read visit below link
+'https://medium.com/analytics-vidhya/intuition-and-implementation-of-linear-regression-b1d2509d458e'
